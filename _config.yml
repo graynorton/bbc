@@ -13,4 +13,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+# Include the _redirects file
 include: [_redirects]
