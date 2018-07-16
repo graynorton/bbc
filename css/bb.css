@@ -1,0 +1,160 @@
+.atbodytext  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : normal;
+	color : #000099;
+}
+
+.atnavtext1  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	text-align : left;
+	color : #FF8040;
+	text-decoration : none;
+}
+
+.atnavtext2  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : normal;
+	text-align : left;
+	color : #FF8040;
+	text-decoration : none;
+	text-indent : 3px;
+}
+
+body  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : normal;
+	color : #000099;
+	background-color : #e2ceb2;
+}
+
+.realsmall  {
+	font-size : 7pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-style : italic;
+	color : #AE9E86;
+}
+
+h1  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-style : normal;
+	font-weight : bold;
+	font-variant : normal;
+	color : #000099;
+}
+
+h2  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-style : normal;
+	font-weight : bold;
+	font-variant : normal;
+	color : #000099;
+}
+
+.atlistitem  {
+	list-style-position : outside;
+	list-style-type : disk;
+	margin-left : .1in;
+}
+
+.atnavbody  {
+	background-color : #1206AD;
+}
+
+.attablecell  {
+	font-size : 8pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #000099;
+	background-color : #CEBAA4;
+}
+
+.attablehead1  {
+	font-size : 8pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	color : #FF8040;
+	background-color : #000000;
+}
+
+.attablehead2  {
+	font-size : 8pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	color : #FFFFFF;
+	background-color : #1206AD;
+}
+
+.attabletitle  {
+	font-size : 10pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	color : #000000;
+	background-color : #CEBAA4;
+	text-align : center;
+}
+
+.ath2  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-weight : bold;
+	font-style : normal;
+	color : #000099;
+}
+
+.ath1  {
+	font-size : 10pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	font-style : normal;
+	color : #000099;
+}
+
+.atpictureframe  {
+	background-color : #1206AD;
+}
+
+.atouterpicframe  {
+	background-color : #CEBAA4;
+}
+
+.athilite  {
+	background-color : #EEE2D2;
+}
+
+.atbodybold  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-weight : bold;
+	font-style : normal;
+	color : #000099;
+}
+
+.atbodyemph  {
+	color : #000099;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-weight : normal;
+	font-style : italic;
+}
+
+a  {
+	text-decoration : none;
+	font-weight : bold;
+	color : #001CD1;
+}
+
