@@ -1,0 +1,28 @@
+<h1><font class="ath1" face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#000099"><b>Baja Bronco Equipment 1973-75</b></font></h1>
+
+<table border="0" cellspacing="3" cellpadding="0">
+	<tr>
+		<td valign="top">
+		<!--#include virtual="/PageContent/EquipmentList.htm"-->
+		</td>
+		<td valign="top">
+		<!--#include virtual="/PageContent/OptionalEquipmentList.htm"-->
+		</td>
+		<td align="center" valign="top">
+<table class="atouterpicframe" bgcolor="#CEBAA4" width="300" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+    <td class="atpictureframe" bgcolor="#1206AD"><img src="/Pictures/atflange.jpg" width=145 height=193 border=0 alt=""></td>
+    <td class="atpictureframe" bgcolor="#1206AD"><img src="/Pictures/timflange.jpg" width=145 height=193 border=0 alt=""></td>
+  </tr>
+  <tr>
+  	<td colspan="2">
+		<font class="atbodytext" face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000099"><p class="atbodytext">The fender on the left is an original from my '73 Baja Bronco. The one on the 
+  		right is a replacement fender on a '71 Baja Bronco. Note the difference in the 
+  		wheel opening. The '71 is also missing it's bumper braces, which led to the 
+  		wrinkled fender and bent bumper.</p></font>
+	</td>
+  </tr>
+</table>
+
+</td></tr></table>
+ 
