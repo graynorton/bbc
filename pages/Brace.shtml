@@ -8,8 +8,8 @@ color="#000099"><b>Baja Bronco Equipment 1973-75</b></font></h1>
 
 <table border="0" cellspacing="3" cellpadding="0">
   <tr>
-    <td valign="top"><!--#include virtual="/PageContent/EquipmentList.htm"--> </td>
-    <td valign="top"><!--#include virtual="/PageContent/OptionalEquipmentList.htm"--> </td>
+    <td valign="top">{% include equipment-list.html %}</td>
+    <td valign="top">{% include optional-equipment-list.html %}</td>
     <td align="center" valign="top"><table class="atouterpicframe" bgcolor="#CEBAA4"
     width="297" border="0" cellspacing="0" cellpadding="3">
       <tr>
