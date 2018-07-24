@@ -3,7 +3,8 @@
     <a href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav>
-      {% include site-nav.md %}
+      {% capture nav %}{% include site-nav.md %}{% endcapture %}
+      {{ nav | markdownify }}
     </nav>
 
 </header>
