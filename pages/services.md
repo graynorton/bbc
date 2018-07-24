@@ -1,5 +1,5 @@
 ---
-layout: bbc
+layout: default
 title: Services
 permalink: /services.html
 ---
