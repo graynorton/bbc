@@ -10,13 +10,13 @@ all-out effort to help you find or build the Bronco of your dreams.
 
 ## Bronco Restoration/Modification
 
-!(/images/ShakerPalms.jpg)
+![Bronco with palm trees in background](/images/ShakerPalms.jpg)
 
 If you are looking for an exceptional build with real classic appeal - lets talk about your Bronco vision.
 
 ## Bronco Appraisal
 
-!(/images/Appraisal.jpg)
+![Detailed Bronco appraisal pictures](/images/Appraisal.jpg)
 
 Are you looking for a Bronco in the western states?  Baja Broncos Unlimited
 can help!  Your ideal Bronco may not be in the town where you live, but
