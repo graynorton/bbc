@@ -2,18 +2,18 @@
   - [Services](/services)
   - [Products](/products)
   - [Broncos for Sale](/products-for-sale)
-  - [Parts for Sale](/parts-for-sale)
-- Contact Us
-- Baja Bronco Briefing
-- Baja Bronco Equipment
-- Baja Bronco Showcase
-  - Jaeson's '72
-  - Andrew's '73
-  - Liz' '71
-  - Gerald's '73
-  - David's '73
-  - Jack's '71
-  - Dave's '71
-  - Tyler's '73
-- Baja Bronco Registry
-- Bronco Links
+  - [Parts for Sale](/parts)
+- [Contact Us](/contact-us)
+- [Baja Bronco Briefing](/briefing)
+- [Baja Bronco Equipment](/commando-and-mag)
+- [Baja Bronco Showcase](/jaeson-72)
+  - [Jaeson's '72](/jaeson-72)
+  - [Andrew's '73](/andrew-73)
+  - [Liz's '71](/liz-71)
+  - [Gerald's '73](/gerald-73)
+  - [David's '73](/david-73)
+  - [Jack's '71](/jack-71)
+  - [Dave's '71](/dave-71)
+  - [Tyler's '73](/tyler-73)
+- [Baja Bronco Registry](/registry)
+- [Bronco Links](/links)
