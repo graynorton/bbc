@@ -1,7 +1,7 @@
 - [Baja Broncos Unlimited](/)
   - [Services](/services)
   - [Products](/products)
-  - [Broncos for Sale](/products-for-sale)
+  - [Broncos for Sale](/broncos-for-sale)
   - [Parts for Sale](/parts)
 - [Contact Us](/contact-us)
 - [Baja Bronco Briefing](/briefing)
