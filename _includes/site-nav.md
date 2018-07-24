@@ -13,7 +13,7 @@
   - [Gerald's '73](/gerald-73)
   - [David's '73](/david-73)
   - [Jack's '71](/jack-71)
-  - [Dave's '71](/dave-71)
+  - [Dave's '71](/dave-h-71)
   - [Tyler's '73](/tyler-73)
 - [Baja Bronco Registry](/registry)
 - [Bronco Links](/links)
