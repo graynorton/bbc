@@ -10,6 +10,7 @@ github_username:  jekyll
 collections_dir: collections
 collections:
 - instagram
+- resto_products
 
 # Build settings
 markdown: kramdown
