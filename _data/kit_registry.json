@@ -1,0 +1,97 @@
+[
+    {
+      "modelYear": "1971",
+      "vehicle": [
+        {
+          "vin": "U15GLK25071",
+          "dso": "71",
+          "color": "Tan-OWB",
+          "owner": "unknown",
+          "location": "Florida",
+          "email": ""
+        },
+        {
+          "vin": "U15GLK27123",
+          "dso": "71",
+          "color": "Grabber Grn-OWB",
+          "owner": "Chris House",
+          "location": "Yreka, CA",
+          "email": ""
+        },
+        {
+          "vin": "U15GLK27635",
+          "dso": "71",
+          "color": "Poppy Red",
+          "owner": "Baja Broncos UNLTD",
+          "location": "Petaluma, CA",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "modelYear": "1972",
+      "vehicle": [
+        {
+          "vin": "U15GLM66751",
+          "dso": "713072",
+          "color": "no code-yellowgold",
+          "owner": "Garage Tsurumaki",
+          "location": "Japan",
+          "email": ""
+        },
+        {
+          "vin": "U15GLN03912",
+          "dso": "71",
+          "color": "Chelsea Green",
+          "owner": "F. Castle",
+          "location": "MO",
+          "email": "akafrankcastle@gmail.com"
+        },
+        {
+          "vin": "U15GLN12508",
+          "dso": "52",
+          "color": "Chelsea Green",
+          "owner": "Chris House",
+          "location": "Yreka, CA",
+          "email": "houseshouse@nctv.com"
+        },
+        {
+          "vin": "U15GLP22177",
+          "dso": "71",
+          "color": "Tampico Yellow",
+          "owner": "Flannery Norton",
+          "location": "Petaluma, CA",
+          "email": "andrew@bajabronco.com"
+        },
+        {
+          "vin": "U15GLP55406",
+          "dso": "715913",
+          "color": "no code - orange",
+          "owner": "Tom Carper",
+          "location": "Michigan",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "modelYear": "1973",
+      "vehicle": [
+        {
+          "vin": "U15GLQ85160",
+          "dso": "71",
+          "color": "2 Maroon",
+          "owner": "Mike Murphy",
+          "location": "Manhattan Beach, CA",
+          "email": "mcfuelsinc@gmail.com"
+        },
+        {
+          "vin": "U15GLS00084",
+          "dso": "723032",
+          "color": "no code-Ford green 7819",
+          "owner": "T. Uchiyama",
+          "location": "CA",
+          "email": ""
+        }
+      ]
+    }
+  ]
