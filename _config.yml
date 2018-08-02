@@ -7,9 +7,21 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://laughing-banach-940c4a.netlify.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+collections_dir: collections
+collections:
+- instagram
 
 # Build settings
 markdown: kramdown
 
 # Include the _redirects file
 include: [_redirects]
+
+# Plugins
+plugins:
+  - jekyll-paginate-v2
+
+# Pagination
+pagination:
+  enabled: true
+  permalink: /:num.html

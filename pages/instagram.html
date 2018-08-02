@@ -1,0 +1,15 @@
+---
+layout: null
+title: bajabroncos on Instagram
+permalink: /instagram
+pagination:
+  enabled: true
+  collection: instagram
+  sort_field: instagram_id
+  sort_reverse: true
+---
+{% for pic in paginator.posts %}
+  <img src="{{ pic.t480 }}">
+  <p>{{ pic.caption | strip }}</p>
+  <p>{{ pic.instagram_id }}</p>
+{% endfor %}
